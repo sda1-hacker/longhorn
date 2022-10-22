@@ -1,0 +1,1 @@
+FROM vitess/vtctlclient:v13.0.3
