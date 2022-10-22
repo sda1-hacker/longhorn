@@ -1,1 +1,1 @@
-FROM longhornio/csi-node-driver-registrar:v2.3.0
+FROM longhornio/csi-resizer:v1.2.0
