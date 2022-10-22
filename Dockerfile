@@ -1,1 +1,1 @@
-FROM longhornio/csi-provisioner:v2.1.2
+FROM longhornio/csi-node-driver-registrar:v2.3.0
