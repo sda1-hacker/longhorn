@@ -1,1 +1,1 @@
-FROM longhornio/longhorn-ui:v1.2.3
+FROM longhornio/longhorn-instance-manager:v1_20211210
