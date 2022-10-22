@@ -1,1 +1,1 @@
-FROM longhornio/longhorn-share-manager:v1_20211020
+FROM longhornio/longhorn-image-manager:v2_20210820
