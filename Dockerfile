@@ -1,1 +1,1 @@
-FROM longhornio/csi-attacher:v3.2.1
+FROM longhornio/csi-provisioner:v2.1.2
