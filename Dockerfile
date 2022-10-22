@@ -1,1 +1,1 @@
-FROM longhornio/longhorn-instance-manager:v1_20211210
+FROM longhornio/longhorn-share-manager:v1_20211020
