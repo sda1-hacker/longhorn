@@ -1,1 +1,1 @@
-FROM vitess/vtctlclient:v13.0.3
+FROM longhornio/longhorn-engine:v1.2.3
