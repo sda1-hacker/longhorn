@@ -1,1 +1,1 @@
-FROM longhornio/longhorn-image-manager:v2_20210820
+FROM longhornio/backing-image-manager:v2_20210820
