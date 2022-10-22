@@ -1,1 +1,1 @@
-FROM longhornio/csi-resizer:v1.2.0
+FROM longhornio/csi-snapshotter:v3.0.3
